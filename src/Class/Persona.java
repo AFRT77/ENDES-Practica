@@ -2,6 +2,7 @@ package Class;
 
 public class Persona {
 
+	//Hemos añadido este comentario para la practica de entornos
 	// ATRIBUTOS
 	private String NombrePer;
 	private int Edad;

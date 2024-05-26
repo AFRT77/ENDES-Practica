@@ -2,6 +2,7 @@ package Class;
 
 public class Parejas {
 
+	//Slo voy a añadir comentarios para la practica de entornos
 	// ATRIBUTOS
 	private int IDPareja;
 	private String Ciudad;
